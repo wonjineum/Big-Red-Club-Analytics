@@ -1,0 +1,1 @@
+Big Red Club Analytics is a TypeScript-based web app where students can search for Cornell campus clubs and view a dashboard with event history, recruiting timelines, and participation metrics. It also recommends upcoming events based on student interests to help them decide whether attending is worth their time.
